@@ -1,0 +1,9 @@
+{
+  "name": "interactive-command-line",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "enquirer": "^2.3.5"
+  }
+}
